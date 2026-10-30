@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tamekane-shika",
  "yomi": "ためかねきょうしかひゃくしゅ",
  "category": "定数歌",
- "description": null,
+ "description": {
+  "kind": "百首歌",
+  "era": "鎌倉後期",
+  "author": "京極為兼",
+  "desc": "京極為兼が春日社で夢のお告げを受け、一度に詠んで奉納したという鹿の百首。立春から祝まで、すべての題に鹿を詠み込む。"
+ },
  "editions": [
   {
    "pid": "1879496",
@@ -1119,6 +1124,6 @@
   "poems": 95,
   "editions": 1,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:37:59+09:00"
+  "updated_at": "2026-10-29T23:55:04+09:00"
  }
 }
